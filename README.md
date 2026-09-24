@@ -12,4 +12,5 @@ This repository is for a university course and outputs a model assessing the imp
 ## Visualisations
 1. under_referrer_map.R - final output of top 10 under referring PCNs
 2. costs_bubble_chart.R - gives a bubble chart of costs as defined by costs.csv in this repo
-3. costs_chart_line_graph.R - gives a line graph of costs over time including revenue and costs. Note that costs are hard coded and not derived from costs.csv. 
+3. costs_chart_line_graph.R - gives a line graph of costs over time including revenue and costs. Note that costs are hard coded and not derived from costs.csv.
+4. england_skin_cancer_referrals.R - line graph of number of urgent skin cancer referrals across all PCNs per year
