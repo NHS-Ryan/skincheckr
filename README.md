@@ -1,6 +1,6 @@
 # skincheckr
 
-This repository is for a university course and outputs a model assessing the impact of fairness of skin and age on number of referrals for skin cancer screening by PCNs. Based on this model output a .svg is created that highlights the top 10 under referring PCNs for suspected skin cancer. 
+This repository is for a university course and outputs a model assessing the impact of fairness of skin and age on number of referrals for skin cancer screening by PCNs. Based on this model output a .svg is created that highlights the top 10 under referring PCNs for suspected skin cancer. In addition there are visualisations of costs & revenue based on our imagined business plan. 
 
 ## Orchestration
 
