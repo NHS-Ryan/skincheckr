@@ -6,7 +6,7 @@ library(scales)
 library(igraph)
 library(ggraph)
 
-costs_df <- read_csv("costs.csv")
+costs_df <- read_csv("data/costs.csv")
 
 # Prepare unique node names in case the same sub-category
 # occurs underneath more than one category
