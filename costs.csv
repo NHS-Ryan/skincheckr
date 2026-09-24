@@ -1,0 +1,16 @@
+category,sub_category,estimated_cost,recurrent
+Workforce,Data Scientist,75400,1
+Workforce,CEO,171600,1
+Workforce,Software Engineer,67600,1
+Workforce,Sales & Marketing Manager,65000,1
+Regulatory Compliance,Registration Costs,1000,1
+Regulatory Compliance,Regulatory Compliance Officer,65000,1
+Estate,Lease,52000,1
+Estate,Management Cost,5000,1
+Other,Software,20000,1
+Other,Equipment,20000,0
+Financial Reserve,Financial Reserve,100000,0
+Other,Insurance,20000,1
+Contract Work,Accountancy,10000,1
+Contract Work,Legal,20000,1
+Regulatory Compliance,Pen Testing,20000,1
